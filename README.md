@@ -1,6 +1,7 @@
 # Streamlit Cookies Manager Extended
 
 Extended version of Streamlit Cookies Manager. Support latest python and streamlit versions.
+Forked initially from https://github.com/ktosiek/streamlit-cookies-manager
 
 Access and change browser cookies from Streamlit scripts:
 
