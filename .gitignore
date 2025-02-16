@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+.idea
+.venv
+.env
+
+/dist/
+/streamlit_cookies_manager_ext/build/
+/streamlit_cookies_manager_ext/node_modules/
